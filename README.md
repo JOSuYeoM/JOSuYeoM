@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 ![JOSuYeoM's github stats](https://github-readme-stats.vercel.app/api?username=JOSuYeoM&show_icons=true)
 
-<script src="https://gist.github.com/JOSuYeoM/586aff1f91da9945354d63d9c9c175d2.js"></script>
